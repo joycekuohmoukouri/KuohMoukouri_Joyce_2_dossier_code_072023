@@ -8,7 +8,7 @@ Dans ce dossier vous trouverez :
 - Le fichier requirements.txt listant les packages utilisés 
 - Le tableau HTML d’analyse de data drift réalisé à partir d’evidently
 
-Le repos de l'[API de prédiction](https://github.com/joycekuohmoukouri/creditworthiness-scoring)
+### Le repos de l'[API de prédiction](https://github.com/joycekuohmoukouri/creditworthiness-scoring)
 
-Le repos du [dashboard](https://github.com/joycekuohmoukouri/dashboard-creditworthiness-scoring)
+### Le repos du [dashboard](https://github.com/joycekuohmoukouri/dashboard-creditworthiness-scoring)
 
