@@ -12,3 +12,5 @@ Dans ce dossier vous trouverez :
 
 ### Le repos du [dashboard](https://github.com/joycekuohmoukouri/dashboard-creditworthiness-scoring)
 
+### Le [dashboard](https://dashboard-projet-7-jkm-bcf05f5e28fb.herokuapp.com)
+
