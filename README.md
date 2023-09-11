@@ -6,7 +6,7 @@ Dans ce dossier vous trouverez :
 - Le code générant le dashboard (streamlit_app.py)
 - Le code permettant de déployer le modèle sous forme d'API (API_1.py)
 - Le fichier requirements.txt listant les packages utilisés 
-- Le tableau HTML d’analyse de data drift réalisé à partir d’evidently
+- Le tableau HTML d’analyse de data drift réalisé à partir d’evidently (data_drift_report.html)
 
 ### Le repos de l'[API de prédiction](https://github.com/joycekuohmoukouri/creditworthiness-scoring)
 
